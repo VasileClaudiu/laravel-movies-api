@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/laravel-movies-api/static/css/main.03a86054.css",
-    "main.js": "/laravel-movies-api/static/js/main.22597229.js",
+    "main.js": "/laravel-movies-api/static/js/main.24646167.js",
     "static/js/787.4492836b.chunk.js": "/laravel-movies-api/static/js/787.4492836b.chunk.js",
     "static/media/logo.svg": "/laravel-movies-api/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
     "index.html": "/laravel-movies-api/index.html",
     "main.03a86054.css.map": "/laravel-movies-api/static/css/main.03a86054.css.map",
-    "main.22597229.js.map": "/laravel-movies-api/static/js/main.22597229.js.map",
+    "main.24646167.js.map": "/laravel-movies-api/static/js/main.24646167.js.map",
     "787.4492836b.chunk.js.map": "/laravel-movies-api/static/js/787.4492836b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03a86054.css",
-    "static/js/main.22597229.js"
+    "static/js/main.24646167.js"
   ]
 }
